@@ -6,7 +6,7 @@ Hello World, this is my profile 🏆 .....
 - 💻 I’m currently learning **JavaScript, the DOM, and Fullstack Development**
 - 🚀 I love building things from scratch and solving coding challenges
 - 🌐 Check out my portfolio:  
-  👉 **[](https://github.com/Adreen-99/Personal-website)**
+  👉 ** Portfolio: [](https://github.com/Adreen-99/Personal-website)**
 - 📫 How to reach me:  
   Github Profile: [](https://github.com/Adreen-99Color=white)]
   Email Address: githinjiadreen27@gmaill.com
