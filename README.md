@@ -1,15 +1,15 @@
 # Profile-1.0
-Hello World, this is my profile 🏆 .....
 ### 👨‍💻 About Me
 
-- 🌍 I'm from **Kenya**
-- 💻 I’m currently learning **JavaScript, the DOM, and Fullstack Development**
-- 🚀 I love building things from scratch and solving coding challenges
-- 🌐 Check out my portfolio:  
+- I'm Adreen Nyawira , Full-stack Developer 
+-  I'm from **Kenya**
+- I’m currently learning **JavaScript,Flask,Python,Flutter(SDK),Next.JS,**
+- I love building things from scratch and solving coding challenges
+- Check out my portfolio:  
   👉 ** Portfolio: [](https://github.com/Adreen-99/Personal-website)**
-- 📫 How to reach me:  
+-  How to reach me:  
   Github Profile: [](https://github.com/Adreen-99Color=white)]
-  Email Address: githinjiadreen27@gmaill.com
+  Email Address:  [](githinjiadreen27@gmaill.com)**
 
 ---
 
