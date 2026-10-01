@@ -4,6 +4,8 @@
 - I'm Adreen Nyawira , Full-stack Developer 
 -  I'm from **Kenya**
 - I’m currently learning **JavaScript,Flask,Python,Flutter(SDK),Next.JS,**
+- Bitcoin 
+- Dada Devs
 - I love building things from scratch and solving coding challenges
 - Check out my portfolio:  
   👉 ** Portfolio: [](https://github.com/Adreen-99/Personal-website)**
@@ -18,11 +20,12 @@
 - **📝 Event Guest List Manager**  
   Interactive guest list app with RSVP toggling, limits, tags, and deletion.
 
-- **🍵 Chai Bora Ingredient Calculator**  
-  Simple calculator that tells you how much milk, tea, and sugar you need based on cups.
+- **🍵 Resilience**
+  
+  
 
-- **📰 Blog App with JSON Server**  
-  A full CRUD blog built with JavaScript and mock backend using JSON Server.
+- **📰 Matatu Link **  
+  A Mobile App using Flutter that shows a user journey to book a ticket and matatu journey.
 
 ---
 
